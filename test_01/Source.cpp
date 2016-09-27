@@ -12,7 +12,7 @@ int main()
 	const int GUILD = 5;
 	const int COMMERCE = 14;
 
-
+	cout << "hello world" << endl;
 
 
 	hConsole = GetStdHandle(STD_OUTPUT_HANDLE);

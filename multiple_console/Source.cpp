@@ -54,8 +54,6 @@ int main()
 	for (pm = movies.begin(); pm != movies.end(); pm++)
 		pm->show();
 
-	cout << "hello" << endl;
-	cout << "hello" << endl;
 	cin.get();
 }
 

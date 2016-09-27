@@ -55,6 +55,7 @@ int main()
 		pm->show();
 
 	cout << "hello" << endl;
+	cout << "hello" << endl;
 	cin.get();
 }
 
